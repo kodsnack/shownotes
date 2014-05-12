@@ -16,6 +16,7 @@ Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 * [Varför är Go så snabbt på att kompilera?][8]
 * [Gophercon 2014 Videor][16]
 * [DLL Hell][3]
+* [Glen Cook][17]
 * [Peter F. Hamilton][9]
 * [Mindstar Rising][10] första delen av Greg Mandel triologin
 * [Great North Road][11]
@@ -41,3 +42,4 @@ Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 [14]: http://en.wikipedia.org/wiki/Reamde
 [15]: http://2014.pycon.se/
 [16]: http://confreaks.com/events/gophercon2014
+[17]: http://www.amazon.com/Chronicles-Black-Company-Glen-Cook/dp/0765319233
