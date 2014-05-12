@@ -1,5 +1,11 @@
 
-Kristoffer och Tobias pratar om Visual Studio, fulhack i C++, unit-tester och mycket annat.
+Kristoffer och Tobias pratar om hur det är att använda Visual Studio i
+Windows 8 vilket osökt leder in på diskussioner om responsiva IDE-er,
+fulhack i C++, unit-tester, Gophercon 2014 och mycket annat.
+
+Både Kristoffer och Tobias kommer vara på [Pycon Sverige][15], som
+går av stapeln i Stockholm den 20 - 21 Maj. Kom gärna och snacka med
+oss i verkligheten!
 
 Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 
@@ -8,6 +14,7 @@ Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 * DrDobbs om [C++ och kompileringstider][7]
 * [Clang Modules][6]
 * [Varför är Go så snabbt på att kompilera?][8]
+* [Gophercon 2014 Videor][16]
 * [DLL Hell][3]
 * [Peter F. Hamilton][9]
 * [Mindstar Rising][10] första delen av Greg Mandel triologin
@@ -15,6 +22,7 @@ Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 * [Neal Stephenson][12]
 * [Snow Crash][13]
 * [Reamde!][14]
+* [Pycon Sverige][15]
 
 
 [1]: https://code.google.com/p/googletest/
@@ -31,3 +39,5 @@ Det här avsnittet av KodSnack sponsras av [Malmö StartUp Studio][5].
 [12]: http://en.wikipedia.org/wiki/Neal_Stephenson
 [13]: http://en.wikipedia.org/wiki/Snow_Crash
 [14]: http://en.wikipedia.org/wiki/Reamde
+[15]: http://2014.pycon.se/
+[16]: http://confreaks.com/events/gophercon2014
