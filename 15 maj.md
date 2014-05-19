@@ -5,13 +5,12 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 
 ## Länkar ##
 * [Cenito](http://www.cenito.se) - veckans sponsorer
-* Fredrik hade det bra i solen
-* Men andra har ännu bättre avsnittslänkar
-* Skeppaångesten
-* Vad är det att skeppa
-* Suse
-* Maintaina - att fortsätta underhålla en version av ett program man redan släppt
-* QA
+* Fredrik [hade det bra i solen](http://instagram.com/p/n-WmnvtWQJ/)
+* Men andra har ännu mer [utförliga avsnittslänkar](http://therecord.co/2014/04/11/nat_irons)
+* Skeppa: att leverera (oftast till slutanvändare) en färdig version av ett program
+* [Suse]() - tilverkare av öppen mjukvara
+* Maintaina: underhåll, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar
+* [QA: quality assurance](http://en.wikipedia.org/wiki/Quality_assurance)
 * Diff
 * Scrum
 * Sprint
@@ -53,7 +52,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * STM - minnesmodell som används av Clojure
 * Meddelandesystem och meddelandeköer, eventsystem
 * Out of order execution
-* Bon Iver-låten där is all maroon finns med
+* [Flume](http://www.azlyrics.com/lyrics/boniver/flume.html) - Bon Iver-låten där uttrycket is all maroon finns med
 
 ## Titlar ##
 * Vi gör vårt bästa
