@@ -1,5 +1,5 @@
-Kodsnack 51 - 
-Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. Korta cykler kontra som ger mer press kontra längre som ger mer fokus men kan höja pressen på varje sak som faktiskt skeppas och dra ut på tiden ännu mer. Vikten av korta cykler även mellan de som är inblandade i utvecklingsprocessen. Varför det är så svårt att tidsuppskatta när uppskattningar och önskningar krockar med verkligheten. Risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Asynkront kontra synkront tas upp som exempel på trend och religion. På slutet lite svar på återkoppling vi fått.
+Kodsnack 51 - Konsten att skeppa
+Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. För- och nackdelar med korta och längre cykler för både leverans av program och internt arbete  avhandlas. Varför det är så svårt att tidsuppskatta, och vad händer när uppskattningar och önskningar krockar med verkligheten? Mot slutet kommer vi även in på risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Allra sist lite svar på återkoppling vi fått.
 
 Avsnittet sponsras av [Cenito](http://www.cenito.se)
 
@@ -8,8 +8,8 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * Fredrik [hade det bra i solen](http://instagram.com/p/n-WmnvtWQJ/)
 * Men andra har ännu mer [utförliga avsnittslänkar](http://therecord.co/2014/04/11/nat_irons)
 * Skeppa: att leverera (oftast till slutanvändare) en färdig version av ett program
-* [Suse]() - tilverkare av öppen mjukvara
-* Maintaina: underhåll, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar
+* [Suse](https://www.suse.com) - tilverkare av öppen mjukvara
+* "Maintaina": underhålla, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar
 * [QA: quality assurance](http://en.wikipedia.org/wiki/Quality_assurance)
 * Diff
 * Scrum
@@ -21,11 +21,11 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * Agile
 * Agile är dött
 * Minecraft och hur det utvecklas
-* Cenito - veckans sponsor söker utvecklare och kan förverkliga dina appdrömmar cenito.se/jobs
-* Angular JS
-* Unity
-* Parabel
-* Berättelse om varför det är så svårt att tidsuppskatta - gå längs kusten i Kalifornien
+* Cenito - veckans sponsor söker utvecklare. Titta in på [cenito.se/jobs](http://www.cenito.se/jobs)!
+* [AngularJS](http://angularjs.org) är ett populärt javascriptramverk från Google
+* [Unity](http://unity3d.com) är en motor för 3d-spel
+* [Parabel](http://sv.wikipedia.org/wiki/Parabel_(liknelse%29) - "en pedagogisk eller moralisk allegori med enkla motiv hämtade från åhörarens vardag"
+* Berättelse om varför det är så svårt att tidsuppskatta - gå längs kusten i Kalifornien. Finns väl på Quora?
 * Kodsnacks IRC-kanal
 * Programmering är Svårt
 * ATP om att programmering är ett av de mest komplexa yrken man kan hålla på med. Och avsnittet efter.
@@ -52,7 +52,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * STM - minnesmodell som används av Clojure
 * Meddelandesystem och meddelandeköer, eventsystem
 * Out of order execution
-* [Flume](http://www.azlyrics.com/lyrics/boniver/flume.html) - Bon Iver-låten där uttrycket is all maroon finns med
+* [Flume](http://www.azlyrics.com/lyrics/boniver/flume.htmlhttps://www.suse.com) - Bon Iver-låten där uttrycket is all maroon finns med
 
 ## Titlar ##
 * Vi gör vårt bästa
