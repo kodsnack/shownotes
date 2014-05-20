@@ -11,29 +11,28 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [Suse](https://www.suse.com) - tilverkare av öppen mjukvara
 * "Maintaina": underhålla, att fortsätta sköta en version av ett program man redan släppt med buggfixar och andra förbättringar
 * [QA: quality assurance](http://en.wikipedia.org/wiki/Quality_assurance)
-* Diff
-* Scrum
-* Sprint
-* Det är svårt att tidsuppskatta
-* Certifieringsprocessen för konsollspel
-* De sista tio procenten tar nittio procent av tiden
-* Att skriva specifikationer
-* Agile
-* Agile är dött
-* Minecraft och hur det utvecklas
+* [Diff](http://en.wikipedia.org/wiki/Diff) - verktyg för filjämförelser
+* [Scrum](http://en.wikipedia.org/wiki/Scrum_(software_development%29) - metodik för mjukvaruutveckling
+* [Sprint](http://en.wikipedia.org/wiki/Scrum_(software_development%29#Sprint) - den grundläggande tidsperioden för utveckling i Scrum
+* [Det är svårt att tidsuppskatta](http://programmers.stackexchange.com/questions/60994/why-is-software-schedule-estimation-so-hard)
+* [Certifieringsprocessen för konsollspel](http://arstechnica.com/gaming/2012/07/how-certification-requirements-are-holding-back-console-gaming/)
+* [De sista tio procenten tar nittio procent av tiden](http://en.wikipedia.org/wiki/Ninety-ninety_rule)
+* [Att skriva specifikationer](http://www.joelonsoftware.com/articles/fog0000000036.html)
+* [Agile](http://en.wikipedia.org/wiki/Agile_software_development)
+* [Agile är dött](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
+* [Minecrafts utvecklarblogg](https://mojang.com)
 * Cenito - veckans sponsor söker utvecklare. Titta in på [cenito.se/jobs](http://www.cenito.se/jobs)!
 * [AngularJS](http://angularjs.org) är ett populärt javascriptramverk från Google
 * [Unity](http://unity3d.com) är en motor för 3d-spel
 * [Parabel](http://sv.wikipedia.org/wiki/Parabel_(liknelse%29) - "en pedagogisk eller moralisk allegori med enkla motiv hämtade från åhörarens vardag"
 * Berättelse om varför det är så svårt att tidsuppskatta - gå längs kusten i Kalifornien. Finns väl på Quora?
 * Kodsnacks IRC-kanal
-* Programmering är Svårt
+* [Programmering är Svårt](http://stilldrinking.org/programming-sucks)
 * ATP om att programmering är ett av de mest komplexa yrken man kan hålla på med. Och avsnittet efter.
 * John Siracusa
 * TDD
-* DHH
-* Ruby on rails
-* DHH om testdriven utveckling - TDD är en bluff
+* [DHH - David Heinemeier Hansson](http://david.heinemeierhansson.com) - skaparen av bland annat [Ruby on rails](http://rubyonrails.org/)
+* DHH om testdriven utveckling - [TDD är dött](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
 * Snake oil
 * Svar på tal om DHH och TDD
 * Vim
