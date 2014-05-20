@@ -32,14 +32,14 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * John Siracusa
 * TDD
 * [DHH - David Heinemeier Hansson](http://david.heinemeierhansson.com) - skaparen av bland annat [Ruby on rails](http://rubyonrails.org/)
-* DHH om testdriven utveckling - [TDD är dött](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
-* Snake oil
+* [TDD är dött](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) - DHH om testdriven utveckling
+* [Snake oil](http://en.wikipedia.org/wiki/Snake_oil) - begrepp för något med tveksamt eller svårbevisat värde
 * Svar på tal om DHH och TDD
 * Vim
 * Emacs
 * Eclipse
 * Trådar
-* Actors i Go
+* [Samtidighet (concurrency) i Go](http://blog.golang.org/share-memory-by-communicating)
 * Gröna trådar
 * Trådsynkronisering och svårigheter att felsöka
 * Race conditions
