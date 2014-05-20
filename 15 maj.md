@@ -1,7 +1,7 @@
 Kodsnack 51 - Konsten att skeppa
 Kristoffer och Tobias snackar om konsten att skeppa, varför det är så svårt att avsluta och leverera saker och hur det fungerar att skeppa saker i deras respektive arbeten. För- och nackdelar med korta och längre cykler för både leverans av program och internt arbete  avhandlas. Varför det är så svårt att tidsuppskatta, och vad händer när uppskattningar och önskningar krockar med verkligheten? Mot slutet kommer vi även in på risken att det går religion i hur man ska göra saker för att det inte finns så mycket rätt och fel i utveckling. Allra sist lite svar på återkoppling vi fått.
 
-Avsnittet sponsras av [Cenito](http://www.cenito.se)
+Avsnittet sponsras av [Cenito](http://www.cenito.se).
 
 ## Länkar ##
 * [Cenito](http://www.cenito.se) - veckans sponsorer
@@ -38,7 +38,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [Vim](http://www.vim.org) - klassisk textredigerare som kan … allt
 * [Emacs](http://www.gnu.org/software/emacs/) -  klassisk textredigerare som kan … allt
 * [Eclipse](http://eclipse.org)
-* [Trådar](http://en.wikipedia.org/wiki/Thread_(computing&29)
+* [Trådar](http://en.wikipedia.org/wiki/Thread_(computing%29)
 * [Samtidighet (concurrency) i Go](http://blog.golang.org/share-memory-by-communicating)
 * [Gröna trådar](http://en.wikipedia.org/wiki/Green_threads) - trådar som hanteras av en virtuell maskin istället för direkt av operativsystemet
 * [Race condition](http://en.wikipedia.org/wiki/Race_condition) - situation där resultatet beror av ordningen på händelser man inte kan kontrollera
