@@ -34,9 +34,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [DHH - David Heinemeier Hansson](http://david.heinemeierhansson.com) - skaparen av bland annat [Ruby on rails](http://rubyonrails.org/)
 * [TDD är dött](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) - DHH om testdriven utveckling
 * [Snake oil](http://en.wikipedia.org/wiki/Snake_oil) - begrepp för något med tveksamt eller svårbevisat värde
-
-* Svar på tal om DHH och TDD
-
+* [Uncle Bob om TDD](http://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html) - Uncle Bob svarar DHH
 * [Vim](http://www.vim.org) - klassisk textredigerare som kan … allt
 * [Emacs](http://www.gnu.org/software/emacs/) -  klassisk textredigerare som kan … allt
 * [Eclipse](http://eclipse.org)
@@ -44,7 +42,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [Samtidighet (concurrency) i Go](http://blog.golang.org/share-memory-by-communicating)
 * [Gröna trådar](http://en.wikipedia.org/wiki/Green_threads) - trådar som hanteras av en virtuell maskin istället för direkt av operativsystemet
 * [Race condition](http://en.wikipedia.org/wiki/Race_condition) - situation där resultatet beror av ordningen på händelser man inte kan kontrollera
-* [Semaforer](http://en.wikipedia.org/wiki/Semaphore_(programming%29)
+* [Semaforer](http://en.wikipedia.org/wiki/Semaphore_%28programming%29)
 * [Singleton](http://en.wikipedia.org/wiki/Singleton_pattern)
 * [Node.js](http://nodejs.org) - servermiljö i och med Javascript
 * [CSP - Communicating sequential processes](http://en.wikipedia.org/wiki/Communicating_sequential_processes)
@@ -52,7 +50,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [STM - Software transactional memory](http://en.wikipedia.org/wiki/Software_transactional_memory) - minnesmodell för samtidighet som används av bland annat Clojure
 * [Meddelandesystem och meddelandeköer](http://en.wikipedia.org/wiki/Message_queue)
 * [Out of order execution](http://en.wikipedia.org/wiki/Out_of_order_execution)
-* [Flume](http://www.azlyrics.com/lyrics/boniver/flume.htmlhttps://www.suse.com) - Bon Iver-låten där uttrycket is all maroon finns med
+* [Flume](http://www.azlyrics.com/lyrics/boniver/flume.html) - Bon Iver-låten där uttrycket is all maroon finns med
 
 ## Titlar ##
 * Vi gör vårt bästa
