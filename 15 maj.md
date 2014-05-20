@@ -25,32 +25,33 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se)
 * [AngularJS](http://angularjs.org) är ett populärt javascriptramverk från Google
 * [Unity](http://unity3d.com) är en motor för 3d-spel
 * [Parabel](http://sv.wikipedia.org/wiki/Parabel_(liknelse%29) - "en pedagogisk eller moralisk allegori med enkla motiv hämtade från åhörarens vardag"
-* Berättelse om varför det är så svårt att tidsuppskatta - gå längs kusten i Kalifornien. Finns väl på Quora?
-* Kodsnacks IRC-kanal
+* [Berättelse om varför det är så svårt att tidsuppskatta](http://qr.ae/KRRUI)
+* [Kodsnacks IRC-kanal](irc://irc.freenode.net/kodsnack)
 * [Programmering är Svårt](http://stilldrinking.org/programming-sucks)
-* ATP om att programmering är ett av de mest komplexa yrken man kan hålla på med. Och avsnittet efter.
-* John Siracusa
-* TDD
+* [Accidental tech podcast](http://atp.fm/episodes/55-dave-who-stinks) om att programmering är ett av de mest komplexa yrken man kan hålla på med. Uppföljning i [avsnittet efter](http://atp.fm/episodes/56-the-woodpecker). Och [avsnittet efter det](http://atp.fm/episodes/57-smorgasbord-of-pronunciation).
+* [John Siracusa](https://twitter.com/siracusa)
+* Testdriven utveckling - TDD - utvecklingsmetodik där man skriver test före koden de testar
 * [DHH - David Heinemeier Hansson](http://david.heinemeierhansson.com) - skaparen av bland annat [Ruby on rails](http://rubyonrails.org/)
 * [TDD är dött](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html) - DHH om testdriven utveckling
 * [Snake oil](http://en.wikipedia.org/wiki/Snake_oil) - begrepp för något med tveksamt eller svårbevisat värde
+
 * Svar på tal om DHH och TDD
-* Vim
-* Emacs
-* Eclipse
-* Trådar
+
+* [Vim](http://www.vim.org) - klassisk textredigerare som kan … allt
+* [Emacs](http://www.gnu.org/software/emacs/) -  klassisk textredigerare som kan … allt
+* [Eclipse](http://eclipse.org)
+* [Trådar](http://en.wikipedia.org/wiki/Thread_(computing&29)
 * [Samtidighet (concurrency) i Go](http://blog.golang.org/share-memory-by-communicating)
-* Gröna trådar
-* Trådsynkronisering och svårigheter att felsöka
-* Race conditions
-* Semaforer inom trådhantering
-* Singleton
-* Node.js
-* CSP
-* Apples block och dispatchköer
-* STM - minnesmodell som används av Clojure
-* Meddelandesystem och meddelandeköer, eventsystem
-* Out of order execution
+* [Gröna trådar](http://en.wikipedia.org/wiki/Green_threads) - trådar som hanteras av en virtuell maskin istället för direkt av operativsystemet
+* [Race condition](http://en.wikipedia.org/wiki/Race_condition) - situation där resultatet beror av ordningen på händelser man inte kan kontrollera
+* [Semaforer](http://en.wikipedia.org/wiki/Semaphore_(programming%29)
+* [Singleton](http://en.wikipedia.org/wiki/Singleton_pattern)
+* [Node.js](http://nodejs.org) - servermiljö i och med Javascript
+* [CSP - Communicating sequential processes](http://en.wikipedia.org/wiki/Communicating_sequential_processes)
+* Apples arbete med [block](https://developer.apple.com/library/mac/Documentation/Cocoa/Conceptual/Blocks/Articles/00_Introduction.html) och [dispatchköer](https://developer.apple.com/library/ios/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html) för C
+* [STM - Software transactional memory](http://en.wikipedia.org/wiki/Software_transactional_memory) - minnesmodell för samtidighet som används av bland annat Clojure
+* [Meddelandesystem och meddelandeköer](http://en.wikipedia.org/wiki/Message_queue)
+* [Out of order execution](http://en.wikipedia.org/wiki/Out_of_order_execution)
 * [Flume](http://www.azlyrics.com/lyrics/boniver/flume.htmlhttps://www.suse.com) - Bon Iver-låten där uttrycket is all maroon finns med
 
 ## Titlar ##
