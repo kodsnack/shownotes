@@ -20,7 +20,7 @@ Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 * [Länkad lista](http://en.wikipedia.org/wiki/Linked_list)
 * [Vektor](http://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B%29#Vector) - datastruktur i C++
 
-* [OS X flagga för att kolla stacken]()
+* OS X-flagga för att kolla stacken
 
 * [Breakpoint på malloc_error_break](http://stackoverflow.com/questions/14045208/how-to-set-a-breakpoint-in-malloc-error-break-to-debug)
 * [Xpath](http://en.wikipedia.org/wiki/XPath)
@@ -60,15 +60,10 @@ Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 * [Typescript](http://www.typescriptlang.org) - ett superset av Javascript utvecklat av Microsoft.
 
 * Kristoffers arga katt
-* Oatmeal om - katter försöker rädda oss från att fastna i skärmar
 
 * [The Homer](http://simpsons.wikia.com/wiki/The_Homer) - bil designad av Homer Simpson
 * [Kommentarer](http://techworld.idg.se/2.2524/1.561947/fran-kravspec-till-leverans-i-kodsnack?articleRenderMode=listpostings#disqus_thread) på förra avsnittet
 * [NP-kompletta problem](http://en.wikipedia.org/wiki/NP-complete)
-
-Bra chans att vi har gamla kunskaper om vad som gäller i javas virtuella maskin och kompilatorupplägg?
-
-Finns ett sidospår eller ämne i vilka språk som slår och varför, och om man 
 
 ## Titlar ##
 * Jag lyckades få ut en ny version
@@ -96,3 +91,7 @@ Finns ett sidospår eller ämne i vilka språk som slår och varför, och om man
 * En väldigt pragmatisk vy
 * Ett allmänt klagomål på samtiden
 * Du jobbar ju med underhållning och verklighetsflykt
+
+Bra chans att vi har gamla kunskaper om vad som gäller i javas virtuella maskin och kompilatorupplägg?
+
+Finns ett sidospår eller ämne i vilka språk som slår och varför, och om man 
