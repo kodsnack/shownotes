@@ -1,15 +1,15 @@
-Kodsnack -
+Kodsnack 52 -
 Vi snackar problem med C++ och går sedan över till att diskutera kring FTL - Apples nya optimerande steg i Webkits javascriptmotor. Frustrationer ventileras över all tid som lagts på att göra Javascript snabbare och bättre och vissa likheter i situationen för C++ och Javascript noteras. Vad smarta människor lägger sin tid på att göra - som att snabba upp javascript och skriva reklamanalys. Vi avslutar med kommentarer på vårt förra avsnitt och tar upp vad vi utvecklare har eller inte har möjlighet att säga till om i rekryteringsprocessen.
 
-Avsnittet sponsras av Malmö startup studio
+Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 
 ## Länkar ##
-* [Malmö startup studio]()
-* [Tobias skeppaångest]()
-* [Pycon]()
-* [STL]()
-* [Erase-remove-pattern]()
-* [Iteratorer i C++]()
+* [Malmö startup studio](http://malmostartupstudio.se/)
+* [Tobias skeppaångest](http://kodsnack.se/blog/2014/5/20/kodsnack-51-konsten-att-skeppa)
+* [Pycon Sverige](http://2014.pycon.se/)
+* [STL](http://en.wikipedia.org/wiki/Standard_Template_Library) - standard template library - bibliotek för C++
+* [Erase-remove](http://en.wikipedia.org/wiki/Erase-remove_idiom)
+* [Iteratorer i C++](http://www.cplusplus.com/reference/iterator/)
 * [Överlagring av funktioner]()
 * [Odefiniereat beteende]()
 * [Bjarne Stroustrup]()
@@ -27,16 +27,16 @@ Avsnittet sponsras av Malmö startup studio
 * [Startup studio Malmö 5 juni]()
 * [Foo café]()
 * [AngularJS-seminarie 17 juni]()
-* Webkit - Apples webbläsarmotor
-* Interpreterande språk - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas
-* JIT - just in time - kompilering vid behov
-* Virtuell maskin
-* Bytekod
-* Buffer overflow - 
+* [Webkit](https://www.webkit.org) - webbläsarmotor främst utvecklad av Apple
+*[ Interpreterande språk](http://en.wikipedia.org/wiki/Interpreted_language) - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas
+* [JIT - just in time](http://en.wikipedia.org/wiki/Just-in-time_compilation) - kompilering vid behov, medan ett program körs istället för innan det körs
+* [Virtuell maskin](http://en.wikipedia.org/wiki/Virtual_machine) 
+* [Bytekod](http://en.wikipedia.org/wiki/Byte_code)
+* [Buffer overflow](http://en.wikipedia.org/wiki/Buffer_overflow) - fel där ett program skriver över minne som egentligen ligger utanför det område utvecklaren avsett
 * Javas hastighet jämfört med Python
 * Begränsningar i Python som gör att JIT inte har lika stora vinster?
-* Chromes V8 - eller vad JIT-kompilatorn heter
-* Tracemonkey - eller av JIT-kompilatorn heter
+* [V8](https://code.google.com/p/v8/) - Googles JIT-kompilerande javascriptmotor
+* [Tracemonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey) - Mozillas JIT-kompilerande javascriptmotor
 * [Safaribloggen beskriver sin javascripthantering och introducerar FTL-JIT](https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/) - det nya optimerande och LLVM-backade kompileringssteget för Javascript
 * DFG-JIT - tredje steget i webkits javascriptoptimering
 * Baseline-JIT - andra steget i webkits javascriptoptimering
@@ -50,9 +50,9 @@ Avsnittet sponsras av Malmö startup studio
 * [Accidental tech podcast 65](http://atp.fm/episodes/65) diskuterar ämnet ingående
 * Javascripts ursprung
 * Smalltalk
-* Dart
-* Jscript
-* Typescript
+* [Dart](https://www.dartlang.org) - språk från Google som kan kompilera till Javascript och vill vara ett bättre alternativ till detsamma
+* [Jscript](http://en.wikipedia.org/wiki/JScript) - Microsofts "dialekt" av ECMAScript (Javascript)
+* [Typescript](http://www.typescriptlang.org) - ett superset av Javascript utvecklat av Microsoft.
 * Kristoffers arga katt
 * Oatmeal om - katter försöker rädda oss från att fastna i skärmar
 * Homer Simpsons bil
