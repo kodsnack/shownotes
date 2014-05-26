@@ -19,9 +19,7 @@ Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 * [XBMC](http://xbmc.org)
 * [Länkad lista](http://en.wikipedia.org/wiki/Linked_list)
 * [Vektor](http://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B%29#Vector) - datastruktur i C++
-
-* OS X-flagga för att kolla stacken
-
+* [Malloc debug in OSX](https://developer.apple.com/library/mac/documentation/performance/conceptual/managingmemory/articles/MallocDebug.html)
 * [Breakpoint på malloc_error_break](http://stackoverflow.com/questions/14045208/how-to-set-a-breakpoint-in-malloc-error-break-to-debug)
 * [Xpath](http://en.wikipedia.org/wiki/XPath)
 * [LXML för Python](http://lxml.de)
