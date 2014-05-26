@@ -30,15 +30,14 @@ Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 * [Foo café](http://www.foocafe.org) - mötesplats för utvecklare i Malmö
 * [AngularJS-seminarie 17 juni](http://www.malmostartupstudio.se/event/angularjs-seminarium/)
 * [Webkit](https://www.webkit.org) - webbläsarmotor främst utvecklad av Apple
-*[ Interpreterande språk](http://en.wikipedia.org/wiki/Interpreted_language) - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas
+* [Interpreterande språk](http://en.wikipedia.org/wiki/Interpreted_language) - språk som inte kompileras (omvandlas till maskinkod) innan körning utan tolkas
 * [JIT - just in time](http://en.wikipedia.org/wiki/Just-in-time_compilation) - kompilering vid behov, medan ett program körs istället för innan det körs
 * [Virtuell maskin](http://en.wikipedia.org/wiki/Virtual_machine) 
 * [Bytekod](http://en.wikipedia.org/wiki/Byte_code)
 * [Buffer overflow](http://en.wikipedia.org/wiki/Buffer_overflow) - fel där ett program skriver över minne som egentligen ligger utanför det område utvecklaren avsett
-
-* Javas hastighet jämfört med Python
-* Begränsningar i Python som gör att JIT inte har lika stora vinster?
-
+* [Java vs. Python](http://benchmarksgame.alioth.debian.org/u32/benchmark.php?test=all&lang=java&lang2=python3&data=u32) - Illustrerar skillnaden JIT-kompilering kan göra.
+* [Unladen Swallow](http://qinsb.blogspot.se/2011/03/unladen-swallow-retrospective.html) - Ett försök att implementera JIT för Python.
+* [Pyston](https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/) - Ett nytt försök att implementera JIT för Python.
 * [V8](https://code.google.com/p/v8/) - Googles JIT-kompilerande javascriptmotor
 * [Tracemonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey) - Mozillas JIT-kompilerande javascriptmotor
 * [Safaribloggen beskriver sin javascripthantering och introducerar FTL-JIT](https://www.webkit.org/blog/3362/introducing-the-webkit-ftl-jit/) - det nya optimerande och LLVM-backade kompileringssteget för Javascript
@@ -56,9 +55,7 @@ Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 * [Dart](https://www.dartlang.org) - språk från Google som kan kompilera till Javascript och vill vara ett bättre alternativ till detsamma
 * [Jscript](http://en.wikipedia.org/wiki/JScript) - Microsofts "dialekt" av ECMAScript (Javascript)
 * [Typescript](http://www.typescriptlang.org) - ett superset av Javascript utvecklat av Microsoft.
-
-* Kristoffers arga katt
-
+* [Kristoffers arga katt](http://theoatmeal.com/comics/cat_vs_internet) - Den här serien av The Oatmeal beskriver situationen väl.
 * [The Homer](http://simpsons.wikia.com/wiki/The_Homer) - bil designad av Homer Simpson
 * [Kommentarer](http://techworld.idg.se/2.2524/1.561947/fran-kravspec-till-leverans-i-kodsnack?articleRenderMode=listpostings#disqus_thread) på förra avsnittet
 * [NP-kompletta problem](http://en.wikipedia.org/wiki/NP-complete)
