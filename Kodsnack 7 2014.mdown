@@ -1,0 +1,69 @@
+Försnack:
+* Någonting på huvudtråden som blockar för länge
+* Kör du BSD?
+* Min egen fulimplementation av localtime
+
+Kodsnack 43 - Jätteprestanda i kod som gör helt fel grej
+
+Vi snackar spel, buggjakter, buggen i GnuTLS och varför inte fler undersökt säkerhetskod. Strul med ljudfiler gav oss sämre material än vanligt att arbeta med, vi ber om ursäkt om det låter lite burkigt här och där.
+
+## Länkar ##
+* [Instruments - tråd- och låsvy](https://developer.apple.com/library/mac/documentation/AnalysisTools/Reference/Instruments_User_Reference/ThreadStates/ThreadStates.html)
+* [Instruments time profiler-instrument](https://developer.apple.com/library/mac/documentation/AnalysisTools/Reference/Instruments_User_Reference/TimeProfilerInstrument/TimeProfilerInstrument.html)
+* [Tobias debuggar trådar](http://bjoreman.com/images/tobiasThreads.png)
+* [Raspberry pi](http://en.wikipedia.org/wiki/Raspberry_Pi) - öppen dator på ett kretskort
+*[plockstat](http://www.lehman.cuny.edu/cgi-bin/man-cgi?plockstat+1)
+* [Litet exempel på data från plockstat](https://gist.github.com/tru/9397446)
+* [OS X localtime_r](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man3/localtime.3.html) - tidshantering där alla delar ett lås
+* [Diskussioner om tidsdragning på 10.9](http://apple.stackexchange.com/questions/117844/clock-wont-keep-time-after-mavericks-installation)
+* [ntp](http://en.wikipedia.org/wiki/Network_Time_Protocol) - network time protocol
+*[Xcom: enemy unknown](http://www.xcom.com/enemyunknown/entry) och [klassikern UFO: enemy unknown](http://en.wikipedia.org/wiki/UFO:_Enemy_Unknown)
+*[The walking dead](https://www.telltalegames.com/walkingdead/)
+*[Telltale games](https://www.telltalegames.com)
+*[Broken age](http://www.brokenagegame.com) - ett nytt äventyrsspel i [klassisk peka-och-klicka-stil](http://en.wikipedia.org/wiki/Point-and-click_adventure_game#Point-and-click_adventure) från [Tim Schafer](http://en.wikipedia.org/wiki/Tim_Schafer).
+* [Ytterligare några av Fredriks tankar om Broken age](http://www.bjoreman.com/thoughts/doubleFineJourney.html).
+* [Titanfall](http://www.titanfall.com)
+* [FPS - first-person shooter](http://en.wikipedia.org/wiki/First_person_shooterhttp://en.wikipedia.org/wiki/CounterStrike)
+* [Counterstrike](http://en.wikipedia.org/wiki/CounterStrike)
+* [Quake 3 arena](http://en.wikipedia.org/wiki/Quake_3)
+* [Far cry 3: blood dragon tutorial](https://www.youtube.com/watch?v=pItOJfE_GYg)
+* [Unit testing](http://en.wikipedia.org/wiki/Unit_testing)
+* [crmsh](http://crmsh.nongnu.org) - programmet Kristoffer jobbar med?
+* [GnuTLS](http://en.wikipedia.org/wiki/GnuTLS)
+* [OpenSSL](https://www.openssl.org)
+* [Om buggen i GnuTLS](http://blog.existentialize.com/the-story-of-the-gnutls-bug.html)
+* [Nikos Mavrogiannopoulos](http://nmav.gnutls.org) och [http://josefsson.orgSimon Josefsson](http://josefsson.org) - männen bakom GnuTLS
+* [Shinichi Mochizuki - japansk matematiker som ingen förstår](http://www.tokyotimes.com/2012/a-mysterious-mind-from-japan-puzzles-mathematicians/)
+* [FFMPEG](http://www.ffmpeg.org) - stor, spridd och fri plattform för att hantera ljud och film
+* [Bit shift](http://en.wikipedia.org/wiki/Bitwise_operation#Bit_shifts) - att förändra binära tal genom att förskjuta deras siffror
+* [RIFF-formatet](http://en.wikipedia.org/wiki/Resource_Interchange_File_Formathttps://getpocket.com)
+* [Satoshi Nakamoto](http://mag.newsweek.com/2014/03/14/bitcoin-satoshi-nakamoto.html) - mannen som, troligen, ligger bakom Bitcoin
+* [Pocket - program för att spara text och läsa senare](https://getpocket.com)
+* [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+* [Second system syndrome](http://en.wikipedia.org/wiki/Second-system_effect)
+* [Suse](https://www.suse.com) - ett lite äldre företag som är ganska stort.
+
+-- Eftersnack/försnack framtiden: Inte multitrådat alls
+* [Accidental tech podcast om varningar i utveckling och produktion](http://atp.fm/episodes/54-goto-fail)
+* [Weverything-flaggan](http://blog.bignerdranch.com/798-a-bit-on-warnings/) och andra flaggor LLVM/Clang stödjer
+* [Koi](https://github.com/krig/koi) - klusterhanteringsmjukvara Kristoffer utvecklat
+* [List comprehension](http://en.wikipedia.org/wiki/List_comprehension) - finns det något bättre än det?
+ * [Guido van Rossum](http://en.wikipedia.org/wiki/Guido_van_Rossum) - mannen bakom Python
+* [Yield i Python](http://stackoverflow.com/questions/231767/the-python-yield-keyword-explained) - en förklaring
+* [Libev](http://software.schmorp.de/pkg/libev.html) - C-bibliotek som ger en händelseloop
+*[Hello world i Python med asyncio](http://docs.python.org/3.4/library/asyncio-task.html#example-hello-world-coroutine)
+
+Jag har tänkt installera Windows någonstans
+Inte som alla andra spel
+Mycket mer förenklat än spelen var förr
+Interaktiv pekbok (på vuxet sätt)
+Att göra humor är svårare än att göra zombies
+En grid med rutor och slå på ett träd
+Ett läsbart icke-XML-format
+Sitta med gammal spagetti och dra ut enskilda trådar
+Titta här, nu har jag bevisat allt
+En person som påstår att han förstår det
+Jätteprestanda i kod som gör helt fel grej
+Vi kallar det beta och så kan du börja använda det
+När vi ska släppa en buggfix tar det fortfarande två år
+Ut till byggd till klar

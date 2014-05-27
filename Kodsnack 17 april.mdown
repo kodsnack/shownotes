@@ -1,0 +1,49 @@
+# Alternativa titlar #
+* Har ni inte börjat skriva riktig kod än
+* Jag var igång på två timmar
+* Nu ska jag inte gå tillbaka till all min kod jag någonsin skrivit
+* I mån av tid eller i hemlighet
+* Mycket av mitt jobb just nu innebär arrayer
+* Inte helt lätt att bena upp
+* Löjligt på sitt sätt
+* Enhetstester efter att ha testat
+* En unit för varje språk
+
+# Kodsnack 17 april - Det tar ju helt klart längre tid #
+
+Tobias och Fredrik snackar om unit testing - att skriva små små tester av små små delar av sin kod för att försäkra sig om att den beter sig korrekt och fortsätter att så göra när saker förändras. Avsnittet sändes även live,  varför experiment och problem med tekniken satte sin egen prägel. Fredriks nästäppa är fullständigt äkta och på intet sätt påverkad av tekniska faktorer.
+
+## Länkar ##
+* [Tobias kanal på Youtube](youtube.com/thieta)
+* [Talking heads](http://en.wikipedia.org/wiki/Talking_Heads)
+* [Enhetstester - unit testing](http://en.wikipedia.org/wiki/Unit_testing)
+* [Vanliga](http://jasonpolites.github.io/tao-of-testing/ch5-1.1.html) [invändningar](http://www.daedtech.com/intro-to-unit-testing-7-overcoming-inertia-and-objections) [mot](http://www.petrikainulainen.net/programming/unit-testing/wrong-reasons-not-to-write-unit-tests/) att skriva enhetstester
+* [Testinfekterad](http://c2.com/cgi/wiki?TestInfected) - begrepp för att ha fattat grejen med att skriva tester
+* [Testdriven utveckling](http://en.wikipedia.org/wiki/Test-driven_development) är ytterligare ett steg i att arbeta med tester, här skriver man tester innan man skriver koden som får testerna att passera
+* [Stubbar](http://en.wikipedia.org/wiki/Method_stub) - enkla platshållare för mer komplicerad kod som ska skrivas senare
+* [Cyklomatisk komplexitet](http://en.wikipedia.org/wiki/Cyclomatic_complexity) - ett sätt att mäta hur komplicerad kod är
+*  [Pep 8](http://legacy.python.org/dev/peps/pep-0008/) och [Pylint](http://www.pylint.org) - pythonprogram som - bland annat - beräknar cyklomatisk komplexitet
+* [Mocha](http://visionmedia.github.io/mocha/) - testramverk för Javascript som kör både i webbläsare och [Node](http://www.nodejs.org)
+* [Junit](http://junit.org/) - enhetstestramverk för Java
+* [Eclipse](https://www.eclipse.org) - populär utvecklingsmiljö för Java
+* [Google test](https://code.google.com/p/googletest/) - testramverk för C++
+* [Makron i C++](http://www.cplusplus.com/doc/tutorial/preprocessor/)
+* [Cmake](http://www.cmake.org) - ett byggsystem vi nämnt mer än en gång
+* [Refaktorering](http://www.refactoring.com) - att omarbeta kod utan att påverka dess funktionalitet utifrån sett
+* [Kodsnacks IRC-kanal](irc://irc.freenode.net/kodsnack) - #kodsnack på irc.freenode.net
+* [Patience diff](http://bramcohen.livejournal.com/73318.html?nojs=1)
+* [std::vector](http://www.cplusplus.com/reference/vector/vector/) - C++-standardbibliotekets version av vektordatastruktur
+* [Git diff](http://gitref.org/basic/#diff) - visar dig vad du ändrat
+* [Fischer-Yates shuffle](http://en.wikipedia.org/wiki/Fisher–Yates_shuffle) - algoritm för slumpmässig blandning av ett sätt
+* [CS - computer science](http://en.wikipedia.org/wiki/Computer_science)
+* [Integrationstest](http://en.wikipedia.org/wiki/Integration_testing)
+* [Test-driven iOS development](http://www.amazon.co.uk/gp/product/0321774183/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0321774183&linkCode=as2&tag=thaeofer-21) - en trevlig och kort bok av [Graham Lee](http://www.sicpers.info)
+* [OCUnit](http://www.sente.ch/software/ocunit/) - testramverk som fanns integrerat i tidigare versioner av Xcode
+* [XCTest](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTestYourApp/UnitTestYourApp.html) - testramverket i Xcode 5
+* [Botar](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/ConfigureBots/ConfigureBots.html) - Xcodes continouous integration-lösning
+* [Pytest](http://pytest.org) - testramverk för Python
+* [Friend-nyckelordet i C++](http://www.cplusplus.com/doc/tutorial/inheritance/) kan göra det lättare för tester att motionera privat kod
+* [Inbyggt teststöd i Go](http://golang.org/pkg/testing/)
+* [Grunt](http://gruntjs.com) - "the Javascript task runner"
+* [NUnit](http://www.nunit.org) - för alla .Net-språk
+* [Jenkins](http://jenkins-ci.org) - populär integrations- och automatiserings-applikation

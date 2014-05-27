@@ -1,0 +1,18 @@
+Ett företag som försöker undvika att bli stämda
+Det minsta de behövde göra
+Väldigt mycket som de inte säger
+Man duckar för problemet
+Direkt ramlar man tillbaka i maktspråk
+
+Kodsnack 47.5 - Man duckar för problemet
+
+Tobias och Kristoffer följer upp [avsnitt 47](http://kodsnack.se/blog/2014/4/10/kodsnack-46-internet-borde-kunna-lsa-det-problemet) om Github och Julie Ann Horwath med vad som hänt sedan dess och diskuterar både de inblandade i githubfallets svar, andras reaktioner och hur man kanske borde agera och reagera.
+
+* [Githubs tillkännagivande](https://github.com/blog/1823-results-of-the-github-investigation) av företagets egen undersökning efter att Horwath slutade
+* [Tom Prestons-Werners bloggpost](http://tom.preston-werner.com/2014/04/21/farewell-github-hello-immersive-computing.html)
+* Horwaths kommentarer via Twitter:
+	* "I am not a victim. I'm someone that a company's negligence pushed too far, for too long. I am living, breathing consequence."[1](https://twitter.com/nrrrdcore/status/458354654598811648)
+	* "Hmmm still no mention of the man who bullied me out of our code base because I *wouldn't* fuck him. Too popular to be accountable, I guess."[2](https://twitter.com/nrrrdcore/status/458347143086870528)
+	* "Oh excuse me, the recently promoted to lead the engineering team man who bullied me out of our code base."[3](https://twitter.com/nrrrdcore/status/458347574672388096)
+* [Exempel](https://twitter.com/The_Infamy/status/458381409023836160) på … "andra sidans" kommentarer och åsikter
+* [Facebooks köp av Oculus](http://kodsnack.se/blog/2014/4/6/kodsnack-45-din-noja-fr-mark-zuckerberg) har vi avhandlat förr

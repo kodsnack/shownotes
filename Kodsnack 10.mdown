@@ -1,0 +1,46 @@
+Vi snackar om olika bilder av programmerare eller utvecklare och konflikterna mellan mer kreativa och mer logiskt vetenskapliga bilder. Förväntningar på att programmerare har det som livsstil. Det stabilt ingenjörsmässiga kontra det ostrukturerat kreativa. Avsaknaden av mätbar vetenskap. Är detta unikt för utvecklarkretsar, eller är det likadant inom alla yrkeskategorier? Blir det mer så inom utveckling för arkitekterna och utförarna i så hög grad är samma personer? Det är svårt att få bitarna att passa ihop med ett kreativt nio-till-fem-jobb. Är metodiker dömda att misslyckas? Vad bör utbildningar egentligen fokusera på?
+
+* Kodninjas och kodarcowboys
+* Någon som lever och brinner
+* Det är inte stabila människor vi pratar om
+* En kreativ vision
+* En stabil konstnär
+* Läkare går hem och påtar i trädgården
+* En cowboy som sitter och fulhackar hela nätterna
+* Ett ovetenskapligt och emotionellt yrke
+* Kapitulera inför separationen mellan två saker
+* Flytande och korsdisciplinärt
+* Förmågan att inte lösa det problem man fått
+* Det som gör en till en kodproducerande person
+
+* Hur gör man något kreativt på ett strukturerat sätt
+* Balans mellan arbete och fritid
+* Fler år erfarenhet än vad som är möjligt
+* Någon har tänkt snett
+* Åldern när man förväntas bli lite mer stabil
+* Hur ser det ut när man är 60 och programmerare?
+* Nio-till-fem-programmerare
+* På gränsen till utbrändhet hela tiden
+* Regler för att höja lägstanivån
+* Hur man utbildar en bra programmerare
+* Outsourca sitt yrke till Kina
+* Kan man komma undan med det här?
+* Jag ska börja på ICA istället
+* Min erfarenhet med stämpelklockor är minimal
+* Inget ont om ICA
+* Något jag allvarligt överväger i mina mörkaste stunder
+* Ingen slump att jag springer lite efter jobbet
+
+Fredrik och Kristoffer diskuterar det sällsamma fallet med Dr. Jekyll och Mr. Hyde, eller civilingenjören i datavetenskap som på nätterna förvandlas till kodapan som lever på Jolt Cola och koffeintabletter.
+
+## Länkar ##
+
+* [Hackers and Painters](http://www.paulgraham.com/hp.html)
+* [Dijkstra gillade inte kodapor](http://www.youtube.com/watch?v=PZA0yK5PrFY)
+
+* [Agil utveckling](https://en.wikipedia.org/wiki/Agile_software_development)
+* [Kanban](https://en.wikipedia.org/wiki/Kanban_(development&#41;)
+* [Dreyfusmodellen för inlärning](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [Software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)
+* [Mannen som outsourcade sitt eget jobb](http://www.bbc.co.uk/news/technology-21043693)
+* [Utvecklare som blev cykelbud](http://www.kuro5hin.org/story/2005/3/19/133129/548)

@@ -1,0 +1,86 @@
+# Kodsnack 15 augusti 2013 #
+* [Rob Pike om Go på the Changelog](http://5by5.tv/changelog/100)
+* [Kids can't use computers … and why it should worry you](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
+
+# Bokklubb, Call of Chutulu #
+
+Vi plockar upp tråden i Kodsnacks bokklubb - nästa bok är H. P. Lovecrafts The call of Chuthulu - och pratar sedan omkring Googles nedläggande av 20%-tid om att få arbetstid till att vara kreativ och göra saker vid sidan av sin huvuduppgift.
+
+## Länkar ##
+
+* [Bokklubben - Pushing ice](http://kodsnack.se/blog/2012/12/3/kodsnack-9-bokklubben-putta-p-is)
+* [H. P. Lovecraft](http://www.hplovecraft.com)
+* [The call of Cthulhu](https://en.wikipedia.org/wiki/The_Call_of_Cthulhu)
+* [Saker influerade av Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft#Influence_on_culture)
+* [The Call of Cthulhu på Lovecraft books online](http://www.elovecraft.com/the-call-of-cthulhu/)
+* [Googles 20%-tid och produkter den gett upphov till](https://en.wikipedia.org/wiki/20%25_time#Innovation_Time_Off)
+* [Artikeln om att 20%-tiden på Google är död](http://qz.com/115831/googles-20-time-which-brought-you-gmail-and-adsense-is-now-as-good-as-dead/)
+* [Dilbert om Googles 20%-tid](http://dilbert.com/strips/comic/2011-12-19/)
+* [Google labs](https://en.wikipedia.org/wiki/Google_Labs)
+* [Google X](https://en.wikipedia.org/wiki/Google_X)
+* [Microsoft research](https://en.wikipedia.org/wiki/Microsoft_Research)
+* [20%-tid på olika företag](http://www.codinghorror.com/blog/2012/08/today-is-goof-off-at-work-day.html)
+* [Historien om HP LaserJet](http://www.hpmemory.org/timeline/jim_hall/laserjet_page_00.htm)
+* [Losing the HP way - I, Cringely](http://www.cringely.com/2011/08/19/losing-the-hp-way/)
+* [IBM Thinkpad - originalversion](http://davetroy.com/posts/think-then-and-now)
+* [SUSE - linuxtillverkaren](https://www.suse.com)
+* [SuSe hackweek](http://hackweek.suse.com)
+* [Double fines amnesia fortnight](http://www.gamasutra.com/view/feature/184325/amnesia_fortnight_how_double_fine_.php)
+* [Hur intelporten av OS X började - som en persons idé och förslag](http://www.quora.com/Apple-Inc-2/How-does-Apple-keep-secrets-so-well/answers/1280472?srid=i1)
+* [Apple Blue sky](http://www.cultofmac.com/200915/apples-blue-sky-program-gives-select-employees-20-time-to-do-whatever-they-want/)
+
+* Vi snackar 20%
+* "Hitta på nya saker"-utveckling
+* Jag känner igen mig i min egen arbetstid
+* När fokus blir på pengarna
+* Vad är Google egentligen?
+* Att sitta och inte koda
+* Tid att tänka snett
+* Ett kugghjul som sitter och spånar
+* Dömt att bli ett själlöst hål
+* Ett mörkt moln över Google
+
+* Novell är ju en roman
+* Det kom tryck uppifrån att trycka ner 20%-tiden
+* Sånt man gör utanför schemat
+* Vad är hemligheten för att hålla er glada?
+
+# Kodsnack 2013-16 #
+Tobias och Kristoffer snackar om övervakning, Groklaws nedläggning, krypto och myndigheters hantering däromkring. Har vi redan gått för långt? Reagerar folk mindre på intrång i fri- och rättigheter för att det sker på det digitala planet? Övertron på att stifta lagar och lägga på mer insyn. Är vi i 1984? Vad har vi som kodare för ansvar i allt detta? Behöver vi som kodar diskutera etik och moral mer som yrkesgrupp?
+
+*[Forced exposure - PJ om varför hon lägger ner Groklaw](http://www.groklaw.net/article.php?story=20130818120421175)
+*[NSA](http://www.nsa.gov)
+*[TOR - anonymitet online](https://www.torproject.org)
+*[FRA-lagen](http://sv.wikipedia.org/wiki/FRA-lagen)
+*[Guardians beslagtagna datorer]()
+*[Ändringarna kring FRA-lagen]()
+*[SCO]()
+*[Lavabit]()
+*[Secret circle?]()
+*[This week in Google]() Med Gina Tripani och Jeff xxxx
+*[Läkaryrkets etiska kod]()
+*[Kids can't use computers … and why it should worry you](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/)
+*[The internet of things]()
+*[IPv6]()
+*[1950 borde arbetsveckan vara 15 timmar]()
+
+* De reagerar ju som fascistregeringar
+* Allting kritikerna sa
+* De som ska bestämma över internet
+* Någonting vi såg 1940
+* De goda har Saurons ring
+* Jag hade velat ha en etisk kod
+* Jag hade velat ha en etisk kod för programmerare
+* Klä av sig kläderna, lägga sig på britsen, bli nedsövd och hoppas på det bästa
+* Lägger sig ner, blundar, fattar tangentbordet och hoppas på det bästa
+* Vad menar du med bättre koll?
+* Det var väldigt lätt att ta till assembler
+* Om man har petat i en C64.
+* Lager av magi
+* Vilka är det då som ska förstå hur det funkar?
+* En dator som en modermodem och en tangentbord
+* Östtyskland börjar se rätt löjligt ut jämfört med vad vi lever i idag
+* Vi har byggt ett samhälle som inte behöver medborgarna
+* Det finns inga pigor och stinsar
+* En stor maskin som drivs av arbete
+* Det tråkigaste av allt: politiken

@@ -1,0 +1,95 @@
+# Kodsnack 5 2013 #
+Vi snackar om XML och JSON som dataöverföringsformat, den enventuella nyttan för utvecklingen i att bli frustrerad över saker och hur utvecklingen kan drivas framåt. Som grädde på moset berättar Kristoffer om sin sophanterare och rekommenderar alla att skriva en själva.
+
+## Länkar ##
+* [Kristoffers tweet om XML och JSON](https://twitter.com/isallmaroon/status/307224048985853952)
+* [XML](http://en.wikipedia.org/wiki/Xml)
+* [JSON](http://json.org)
+* [Javascripts talhantering](http://www.jibbering.com/faq/#FAQ4_7)
+* [Gopher](http://en.wikipedia.org/wiki/Gopher_(protocol))
+* [Fidonet](http://en.wikipedia.org/wiki/FidoNet)
+* [Kooperativ multitasking](http://en.wikipedia.org/wiki/Computer_multitasking#Cooperative_multitasking.2Ftime-sharing)
+* [Rust](http://www.rust-lang.org)
+* [Dart](http://code.google.com/p/dart/)
+* Sophanteringslänkar från Kristoffer?
+* [Cheneys algoritm](http://en.wikipedia.org/wiki/Cheney's_algorithm)
+* [C4](http://www.azulsystems.com/products/zing/c4-java-garbage-collector-wp)
+
+Mer noise och mindre content
+Man har ungefär 53 bitar
+Mer än 32 men mindre än 64
+Dataöverföringens Iphone
+Helt plötsligt har man förlorat sin cookie och allting är bara åt skogen
+När det går sönder har hela modellen gått sönder
+Växer i kubik åt alla håll
+Som programmerare utvecklar man ofta applikationer
+Undantagen är regel på webben
+Helt plötsligt gick allt långsamt och batteriet åts upp
+På något magiskt sätt fungerar det
+
+Kristoffer mot XML och JSON
+Kristoffer säger upprörande saker på Twitter
+XML mot JSON
+Det är lite av en frustration över hela webben
+Det är egentligen aldrig några problem med internet
+Vill ni prata sophantering?
+Man kan aldrig stoppa en hjärt- lungmaskin i en halvminut
+De behöver aldrig någonsin stoppa hela världen
+
+JSON är ju ett klockrent exempel på the simplest thing that could possibly work. Och SOAP på motsatsen, ungefär. 
+
+# Kodsnack 6 2013 #
+
+Vi snackar äntligen med en windowsutvecklare! Iris Classon hjälper oss att vidga våra vyer kring moderna typer av windowsapplikationsutveckling. Det blir mycket diskussion av designtrender och visioner och åt vilka håll olika plattformar kan tänkas gå. Som avslutning en diskussion om olika typer av inmatning och vilka möjligheter de innebär.
+
+## Länkar ##
+* [Dotnet mentor](http://www.dotnetmentor.se)
+* [Telerik](http://www.telerik.com)
+* [Windows store apps](http://en.wikipedia.org/wiki/Windows_store_apps#Windows_Store_and_Apps)
+* [Windows RT](http://en.wikipedia.org/wiki/Windows_RT)
+* [Modern UI](http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx)
+* [Language projections](http://stackoverflow.com/questions/7432905/what-are-winrt-language-projections)
+* [Bauhaus](http://en.wikipedia.org/wiki/Bauhaus)
+* [Cocktail flow](http://cocktailflow.com)
+* [Leap motion](https://www.leapmotion.com)
+* [Minority report interface](http://uxdesign.smashingmagazine.com/2013/03/01/sci-fi-interaction-designers-gestural-interfaces/)
+* [Clear med Leap motion](http://vimeo.com/60564626)
+* [Tobii](http://www.tobii.com)
+* [No](http://www.imdb.com/title/tt2059255/?ref_=fn_al_tt_1)
+* [Surface pro](http://www.microsoft.com/Surface/en-us/surface-with-windows-8-pro/home)
+* [Gabe på Penny Arcade om Surface pro](http://penny-arcade.com/2013/02/25/the-ms-surface-pro)
+* [Lenovo yoga 13](http://www.lenovo.com/products/us/laptop/ideapad/yoga/yoga-13/)
+* [@irisclasson](https://twitter.com/IrisClasson/)
+* [irisclasson.com](http://www.irisclasson.com)
+
+Nature envy
+Lika irriterande som reklam på Youtube
+IKEA-design rakt av
+Ett bord är ett bord
+Funktionen blir en estetik
+En knapp är en knapp
+Met… sorry, Modern UI
+Jag är ganska säker på att detta inte är ett misstag
+Jag vill bara ha Notepad
+Samma navigationsmodell på alla flygplatser
+För några år sedan hade det inte varit okej
+
+This is a button
+Skandinavisk IKEA-design rakt av
+Man har aldrig tänkt på Microsoft som det designtunga företaget
+En femcentimeters trave som man ska släpa runt
+Folk har fattat grejen och det är inte så coolt längre
+Jag gillar hur de försökte få ihop det, det var lite gulligt.
+Jag är inget microsoftfan, jag är ett programmeringsfan
+Folk tycker ju det är retro med LP
+Man tänker på hur många kama sutra-appar det finns därute
+Då är man ju trasig!
+Det blir bättre med musen
+Det blir bättre med touch
+Jag stod bara och stirrade på pennan 
+Jag kan inte skriva längre
+Det ser ut som drinkarna speglas
+Du får ganska mycket out of the box
+En standard för hur applikationer ska funka
+
+Natt och dag jämfört med Apples certifikatsprocess

@@ -1,0 +1,142 @@
+* Allt är mitt fel
+* Det är terminaldrivet
+* Bash-scripten man gärna vill skriva
+* Alla verktyg man har i Unix
+* Ännu mer programmerbart
+* Jag började som windowsanvändare, som de flesta
+* Unixparadigmen
+* Lite av en ideologisk fråga
+* Rätt less på stora titlar
+* Man vill göra så många andra saker också
+* Optimerat för andra saker
+* Ett litet operativsystem som nästan ingen använde på några få datorer
+* Hade jag varit en utvecklare av mjukvara
+* Windows är lite vilda västern
+* Det finns inte så mycket förväntningar på att det ska vara snyggt
+* Folk är vana vid kaoset i Windows
+* Machipsters med snurrad mustasch och rutig skjorta
+* Verklighetens folk
+* Tröskeln på Mac OS är högre
+* Det måste kulturellt passa in på Mac OS
+* En effekt som håller Linux nere
+* En spiral av saker som konspirerar
+* Självförstärkande effekter som gör Linux stort
+* En fånig gadget som yuppies springer runt med
+* Linux vann
+* Någonting som löser alla basproblem åt dem
+
+# Kodsnack 48 - En ideologisk fråga #
+Kristoffer och Fredrik snackar om operativsystem, hur vi upplever dem, vilka vi använder och föredrar och vad som egentligen är intressant för oss. Vad vi vill ha och varför. Kraften i att kunna programmera sin egen miljö. Skillnader i hur Apple och Microsoft behandlar utvecklare. Fördelen för OS X och Linux att folk är där av eget val. Jämförelsen OS X kontra Windows och iOS kontra Android. Varför det inte utvecklas mer för Linux.
+
+## Länkar ##
+* [Operativsystem](http://en.wikipedia.org/wiki/Operating_system) - programmen som startar, kör och hanterar alla andra program i din dator
+* [Mac OS X](http://en.wikipedia.org/wiki/Mac_os_x) Apples operativsystem för persondatorer
+* [Windows XP](http://en.wikipedia.org/wiki/Windows_XP) - det senaste Windows Fredrik använde på heltid
+* [Linux](http://en.wikipedia.org/wiki/Linux) - fritt (eller åtminstone friare) operativsystem skapat av Linus Torvalds
+* [Unix](http://en.wikipedia.org/wiki/Unix) - stor familj av operativsystem vars allra första version släpptes av Bell labs 1973
+* [POSIX](http://en.wikipedia.org/wiki/POSIX) - en uppsättning standarder för att få kompatibilitet mellan operativsystem
+* [Bash](http://en.wikipedia.org/wiki/Bash_(Unix_shell%29) - mycket spritt terminalprogram
+* [Windows kommandoprompt](http://en.wikipedia.org/wiki/Windows_command_line) - många windowsversioners version av terminalprogram
+* [Powershell](http://en.wikipedia.org/wiki/Powershell) - Microsofts modernare kommandorads- och automatiseringsmiljö
+* [Applescript](http://en.wikipedia.org/wiki/Applescript) - skriptspråk för Mac OS
+* [find](http://en.wikipedia.org/wiki/Find) - unixprogram för filsökning
+* [Grep](http://en.wikipedia.org/wiki/Grep) - unixprogram för sökning i filer efter matchande text
+* [Visual studio](http://en.wikipedia.org/wiki/Visual_studio) - Microsofts utvecklingsmiljö 
+* [Red hat linux](http://en.wikipedia.org/wiki/Red_hat_linux) - linuxdistribution
+* [Massive entertainment](http://en.wikipedia.org/wiki/Massive_Entertainment) - svensk spelstudio
+* [Steam](http://en.wikipedia.org/wiki/Steam_(software%29) - Valves spelförsäljnings- och distributionsplattform
+* [Xbox](http://en.wikipedia.org/wiki/Xbox_(console%29) - Microsofts första spelkonsoll
+* [OpenGL](http://en.wikipedia.org/wiki/Opengl)
+* [OpenGL i Mac OS X](https://developer.apple.com/opengl/)
+* [Input lag](http://en.wikipedia.org/wiki/Input_lag)
+* [Input lag i Mac OS X](https://www.google.com/search?q=opengl%20and%20os%20x#q=what+is+input+lag) - något många seriösa spelare funderar över
+* [Låglatensskärmar](http://www.tomshardware.co.uk/forum/63543-3-benq-xl2420t-gaming-monitor-review-competitive-gaming-discussion) - något många spelare är intresserade av
+* [Direct X](http://en.wikipedia.org/wiki/Direct_X) - Microsoft-APIer för spel och multimedia
+* [DOS](http://en.wikipedia.org/wiki/DOS) - Disk operating system, egentligen en hel familj av operativsystem
+* [Autoexec.bat](http://en.wikipedia.org/wiki/Autoexec.bat) - fil som automatiskt körs när DOS startar
+* [Hired guns](http://en.wikipedia.org/wiki/Hired_Guns) - rollspel först släppt till Amiga, sett ur första person och för upp till fyra spelare samtidigt
+* [Amiga](http://en.wikipedia.org/wiki/Amiga)
+* [Workbench](http://en.wikipedia.org/wiki/Workbench_(AmigaOS%29) - det grafiska gränssnittet för Amiga OS
+* [Developers developers developers](http://m.youtube.com/watch?v=8To-6VIJZRE)
+* [Micrsofterbjudanden för studenter som vill utveckla](https://www.dreamspark.com/)
+* [Appleerbjudanden för studenter som vill utveckla?](https://developer.apple.com/programs/ios/university/)
+* [Stygga verktygsfält för webbläsare](http://en.wikipedia.org/wiki/Ask_toolbar#Ask_Toolbar_controversy)
+* [iOS app store](http://en.wikipedia.org/wiki/IOS_App_Store) - Apples mjukvarubutik för iPhone och iPad
+* [Panic](http://www.panic.com) - liten och känd oberoende utvecklare för Apples plattformar. Finns det motsvarigheter på microsoftsidan?
+* [Steam machine](http://en.wikipedia.org/wiki/Steam_Machine_(hardware_platform%29) - Valves linuxbaserade spelmaskin
+* [The year of Linux on the desktop](http://www.infoworld.com/d/open-source-software/2014-the-year-of-the-linux-desktop-238358)
+* [Microsoft släpper Roslyn - kompilatorplattformen för .net - som öppen källkod](https://roslyn.codeplex.com/)
+* [Satya Nadella](http://en.wikipedia.org/wiki/Satya_Nadella) - Microsofts nye chef
+* [Azure](http://en.wikipedia.org/wiki/Windows_Azure) - Microsofts molnplattform
+* [Cocoa for web services](http://inessential.com/2014/04/09/cocoa_for_web_services) - om tanken att skapa fler generella lösningar för det vi behöver på våra servrar
+* [Amazons molntjänster](http://aws.amazon.com/)
+
+* En episkt skäggig man
+* En sådan som hypar och överdriver
+* Förstör HTTPS så att s:et inte finns längre
+* Den privata nyckeln för din bank
+* Ditt köp är nu värdelöst
+* Alla måste byta alla sina lösenord, överallt
+* Hela idén med SSL är trasig
+* En smutsig och ful bransch
+* Försöker du göra krypto? Lägg av!
+* Inte ens kompetenta människor
+* Auran av rädsla som finns kring krypto
+* Det är väldigt svårt att hålla saker hemliga
+* Alla användare ska ha en hög med lösenord
+* Byta nycklar med varandra
+* Korthuset vinglar
+
+# Kodsnack 46 - Korthuset vinglar #
+Fredrik och Kristoffer snackar om Heartbleed - den ovanligt allvarliga buggen som nyligen upptäckts i OpenSSL. Därifrån kommer undran varför hela SSL-upplägget med certifikat och rotcertfikat fungerar (snarare inte fungerar) som det gör. Vi hoppas att fler vågar lära sig, experimentera med och rent av utveckla kod omkring kryptering. Och så en del om problemen med att spela in sina diskussioner och höra sig själv i efterhand. Varför det inte decentraliseras mer.
+
+* [OpenSSL](https://www.openssl.org) - säkerhetsmjukvaran i vilken buggen kallad Heartbleed har upptäckts
+* [Bruce Schneier](http://en.wikipedia.org/wiki/Bruce_Schneier) - amerikanskt krypto- säkerhets- och integritetsspecialist
+* [Chuck Norris-memes](http://en.wikipedia.org/wiki/Chuck_Norris_meme)
+* [Schneier-memes](http://www.schneierfacts.com)
+* [Heartbleed](http://www.heartbleed.com)
+* [Schneiers post om Heartbleed ](https://www.schneier.com/blog/archives/2014/04/heartbleed.html) - buggen är elva på tiogradiga skalan
+* [Schneier om säkerhetsteater](https://www.schneier.com/blog/archives/2009/11/beyond_security.html) [på flygplatser](https://www.schneier.com/blog/archives/2012/11/on_the_ineffect_1.html)
+* [Fear mongering](http://en.wikipedia.org/wiki/Fear_mongering) - att använda rädsla för att påverka
+* [HTTPS](http://en.wikipedia.org/wiki/Https)
+* [Man in the middle-attacker](http://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+* [Serien XKCD förklarar Heartbleed](http://xkcd.com/1354/)
+* [Privata nycklar](http://en.wikipedia.org/wiki/Private_key)
+* [Vad kan man hitta genom att utnyttja Heartbleed?](http://blog.cloudflare.com/answering-the-critical-question-can-you-get-private-ssl-keys-using-heartbleed) - artikeln jag hittade med de som försökte få ut privata nycklar
+* [Googles uppdateringar efter Heartbleed](http://googleonlinesecurity.blogspot.co.uk/2014/04/google-services-updated-to-address.html)
+* [Twitter säger sig vara opåverkade](http://status.twitter.com/post/82109064906/ssl-security-update)
+* [… liksom Facebook](http://www.dailymail.co.uk/news/article-2602069/Google-Facebook-Paypal-insist-internet-passwords-secure-heartbleed-bug-alert.html)
+* [Men Tumblr säger byt lösenord …](http://staff.tumblr.com/post/82113034874/urgent-security-update)
+* [… precis som Github](https://github.com/blog/1818-security-heartbleed-vulnerability)
+* [Gotofail](https://gotofail.com)
+* [Koden för Heartbleedbuggen](http://www.garage4hackers.com/entry.php?b=2551)
+* [Heartbeat-meddelande](http://en.wikipedia.org/wiki/Heartbeat_message)
+* [TCP heartbeat](http://stackoverflow.com/questions/865987/do-i-need-to-heartbeat-to-keep-a-tcp-connection-open)
+* [Bounds check](http://en.wikipedia.org/wiki/Bounds_checking)
+* [Den sedelärande historien om Bobby tables - också från serien XKCD](http://xkcd.com/327/)
+* [Kritik - från 2009 - av hur OpenSSL är skrivet](https://www.peereboom.us/assl/assl/html/openssl.html)
+* [GNUTLS](http://www.gnutls.org) - alternativ till OpenSSL, som hade [sin egen bugg](http://kodsnack.se/blog/2014/3/15/kodsnack-43-jtteprestanda-i-kod-som-gr-helt-fel-grej) helt nyligen.
+* [Rotcertifikat](https://en.wikipedia.org/wiki/Root_certificate)
+* [Akustikanalys](https://www.cs.tau.ac.il/~tromer/acoustic/)
+* [Social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security%29) - social manipulation, att lura människor istället för att överlista eller hitta hål i tekniska lösningar
+* [Zero-day exploit](https://en.wikipedia.org/wiki/Zero-day_exploit)
+* [Verktyg för att undersöka om webbplatser åtgärdat buggen](http://filippo.io/Heartbleed/)
+* [Heartbleeder - kod för att testa din sårbarhet](https://github.com/titanous/heartbleeder)
+* [Nyheter om Heartbleed i vanliga tidningar](http://www.gp.se/nyheter/varlden/1.2337649-heartbleed-buggen-varre-an-vantat)
+* [DNSSEC](http://en.wikipedia.org/wiki/DNSSEC) - säkring av domännamnsserversystemet
+* [Kritik mot DNSSEC](http://cr.yp.to/talks/2009.08.10/slides.pdf)
+* [Darwinism](http://en.wikipedia.org/wiki/Darwinism)
+* [RSA-kryptering](http://en.wikipedia.org/wiki/RSA_(cryptosystem%29)
+* [CA - certificate authority - utgivare av certifikat](http://en.wikipedia.org/wiki/Certificate_Authority)
+* [Napster](http://en.wikipedia.org/wiki/Napster) - tidig fildelningstjänst för musik som stämdes ihjäl
+* [Bittorrent](http://en.wikipedia.org/wiki/BitTorrent) - känt och välanvänt protokoll för fildelning utan en central server
+* [Waste](http://en.wikipedia.org/wiki/Waste_(computer_program%29)
+* [Winamp](http://en.wikipedia.org/wiki/Winamp) - klassiskt mp3-spelarprogram
+* [Justin Frankel](http://en.wikipedia.org/wiki/Justin_Frankel) - mannen bakom både Waste, Winamp och [Gnutella](http://en.wikipedia.org/wiki/Gnutella)
+* [AOL](http://en.wikipedia.org/wiki/Aol) - medieföretaget som förr i tiden var stora på uppringd internetuppkoppling (helst till AOLs egna lilla inhängnad) i USA
+* [OpenSSH](http://www.openssh.com) - som inte har något med OpenSSL eller Heartbleed att göra
+
+## Händelser efter inspelning ##
+
+* [NSA Said to Exploit Heartbleed Bug for Intelligence for Years](http://www.bloomberg.com/news/2014-04-11/nsa-said-to-have-used-heartbleed-bug-exposing-consumers.html) - artikel som kom strax efter att avsnittet spelades in
+* [Bekräftelse att det går att komma över privata nycklar](https://www.cloudflarechallenge.com/heartbleed) genom att utnyttja Heartbleed

@@ -1,0 +1,56 @@
+# Kodsnack 11 2013 - Varför Tobias bytt från IOS till Android #
+
+* Androidtelefon på heltid
+* Våra perspektiv är kanske lite olika
+* I internets skugga
+* Jag vet inte ens vad som händer längre
+* Oändligt många skärmstorlekar
+* Möjlighet att ställa in grejer
+* En skiva jag fysiskt måste stoppa i en maskin jag inte längre har
+* De riktgit dåliga upplevelserna i Android.
+* Yahoo innan Google
+* Hur äger man bitar?
+* Jag skulle gärna betala för saker
+* Android är nördoperativsystemet
+
+* Köra traktor
+* Lägstanivån har höjts
+* Det sämsta namnet för en app store
+* Det finns ett vakuum
+* Pixelfördubbling är något vi alla har i vår framtid
+* Don't be creepy-problemet
+* Google butler
+* Microsoft satsar mycket på gester
+* Det funkar ungefär som du kan tänka dig att det funkar
+* Innan det fanns ett bra sätt att söka på internet
+* Tillitsproblemet igen
+* DRM är rent kundfientligt
+* Köpa sig en massa smärta
+
+Vi snackar om Tobias byte från iOS och iPhone 5 till Android och Galaxy S4. Sedan går vi över till att försöka gissa vad nästa stora grej inom mobiler, Google now, prylar, operativsystem som Firefox OS, problem med DRM och tillit. Avslutningsvis berättar Tobias om allt roligt man kan ha när man försöker uppdatera mjukvaran sin Galaxy S4.
+
+* [Nexus 4](http://en.wikipedia.org/wiki/Nexus_4)
+* [Android 4.2](http://www.android.com/whatsnew/)
+* [Samsung Galaxy S4](http://www.android.com/whatsnew/)
+* [GWT - Google web toolkit](http://en.wikipedia.org/wiki/Google_Web_Toolkit)
+* [Android NDK](https://developer.android.com/tools/sdk/ndk/index.html)
+* [JNI - Java native interface](https://en.wikipedia.org/wiki/JNI)
+* [QT för Android](http://blog.qt.digia.com/blog/2013/03/13/preview-of-qt-5-for-android/)
+* [Dalvik](http://en.wikipedia.org/wiki/Dalvik_VM)
+* [Androidpaket för Eclipse](http://developer.android.com/tools/sdk/eclipse-adt.html)
+* [Emulator kontra simulator](http://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference)
+* [Andy Ihnatkos byte till androidtelefon](http://www.techhive.com/article/2030042/why-i-switched-from-iphone-to-android.html)
+* [Google play](https://play.google.com/store)
+* [Facebook messenger för Android](https://play.google.com/store/apps/details?id=com.facebook.orca&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5mYWNlYm9vay5vcmNhIl0.)
+* [Paradigm](http://sv.wikipedia.org/wiki/Paradigm)
+* [John Gruber](https://en.wikipedia.org/wiki/John_gruber)
+* [Siri - iOS röststyrning](https://en.wikipedia.org/wiki/IOS#Siri)
+* [Google now](https://en.wikipedia.org/wiki/Google_now)
+* [Gester i Galaxy S4](http://allaboutgalaxys4.com/galaxy-s4-features-explained/air-gesture/)
+* [Ping](https://en.wikipedia.org/wiki/ITunes_Ping)
+* [Firefox OS](http://en.wikipedia.org/wiki/Firefox_OS)
+* [Ubuntu för mobiler](http://www.ubuntu.com/phone)
+* [WebOS](http://en.wikipedia.org/wiki/Webos)
+* [Steam](http://en.wikipedia.org/wiki/Steam_software)
+* [DRM - Digital rights management](https://en.wikipedia.org/wiki/Digital_rights_management)
+* [Kies](http://www.samsung.com/us/kies/)

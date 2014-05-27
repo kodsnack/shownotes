@@ -1,0 +1,101 @@
+# Kodsnack 8 2013 #
+Försvinna ner i en loop
+Lisp i Lisp på tre sidor
+En anonym funktion som tar en parameter
+Funktioner hela vägen ner
+Man kan gå baklänges i sitt exception
+Ett hobbyprojekt från åttiotalet
+Arkitekter som kopierar andras hus
+Svårt för borgerliga programmeringsspråk
+Av proletärer för proletärer
+Idealisterna som inte får något gjort
+
+Istället för hur en dator faktiskt funkar
+Då kan man implementera precis allt
+Mer som att sitta och leka med matematik
+Jag började skriva en komplett implementation av Scheme
+För att skriva praktiska program är det inte så man vill göra
+Den platoniska programmeringen
+Alla andra programmeringsspråk ser ut som leksaker
+De har tappat bort poängen att det ska vara ett hus
+Man kanske skulle bli lispprogrammerare istället
+Borgerligt på ett fult sätt
+Upp till kamp för C och minneshantering
+Det är ju ett proletärspråk
+
+Fredrik och Kristoffer snackar om Kristoffers programmeringsresa bakåt i tiden, framåt och inåt i kunskap och insikter. Och vilket programmeringsspråk är egentligen mest arbetarklass?
+
+## Länkar ##
+
+* [Lambdakalkyl](http://sv.wikipedia.org/wiki/Lambdakalkyl)
+* [The essentials of programming languages](https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages)
+* [Lisp](https://en.wikipedia.org/wiki/Lisp_programming_language)
+* [Clojure](https://en.wikipedia.org/wiki/Clojure)
+* [John McCarthys första paper om Lisp](http://www-formal.stanford.edu/jmc/recursive.html)
+* [Kristoffers implementation av lispkompilatorn i C](https://github.com/krig/LISP)
+* [Alonso Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+* [Ohm Chess HD](http://kri.gs/ohmchesshd/)
+* [Scheme](https://en.wikipedia.org/wiki/Scheme_programming_language) ([standardversion 7](https://en.wikipedia.org/wiki/Scheme_programming_language#R7RS))
+* [Call with current continuation](https://en.wikipedia.org/wiki/Call-with-current-continuation)
+* [Continuation](https://en.wikipedia.org/wiki/Continuation)
+* [Continuation passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
+* [Betareduktion](https://en.wikipedia.org/wiki/Beta_reduction#Reduction)
+* [Common Lisp](https://en.wikipedia.org/wiki/Common_lisp)
+* [Practical common Lisp](http://www.gigamonkeys.com/book/)
+* [Generics](https://en.wikipedia.org/wiki/Generic_programming)
+* [Lambdafunktioner](https://en.wikipedia.org/wiki/Anonymous_function)
+* [Steel bank common Lisp](http://www.sbcl.org)
+* [Automatisk minneshantering - garbage collection](http://en.wikipedia.org/wiki/Garbage_collection_computer_science)
+* [Arrayliterärer](http://en.wikipedia.org/wiki/Literal_computer_programming)
+
+# Kodsnack 9 2013 #
+1 Vi skulle kunna skylla på Tobias
+2 Utspritt över hela molnet
+3 Vi får se om Tobias gråter när han hör det här
+4 Tobias gråter när han hör det här
+5 En svart strimma som äter en vit kub
+6 Ofta är det lull-lullet som saknas
+7 De som lyckas är de som har en personlighet
+8 Man behöver ha en själ
+9 Sätt ögon på saker
+10 En tråkig grå låda som står och surrar
+
+Vi börjar snacka synkronisering av data, mest via Dropbox, urartar snabbt till att köra Lisp på servrar och bygga allting själv för att avsluta med en diskussion om vikten av puts och kärlek ovanpå en solid kärna.
+
+Lätt att halka in i att det blir peer to peer
+C++ på arbetstid
+Vad har du gjort den senaste tiden?
+Allt jag hört om iCloud är håll er borta
+Alla vill ju synka saker
+Du har lekt med Dropbox
+Tänka på synk
+Trevliga loopar över objekt
+Du behöver något på serversidan
+Något begränsat och praktiskt
+Bootstrap från metallen
+Ett begrepp som några indieutvecklare hittat på
+Jag har alla bulletpoints på features
+Någonting som har en personlighet
+Helheten saknas
+Var inte själlösa utvecklare
+
+## Länkar ##
+
+* [Core data](https://en.wikipedia.org/wiki/Core_Data)
+* [iCloud](https://en.wikipedia.org/wiki/Icloud)
+* [Core data för iCloud](https://developer.apple.com/library/ios/#releasenotes/DataManagement/RN-iCloudCoreData/)
+* [Dropbox](https://www.dropbox.com)
+* [JSON](http://json.org)
+* [Dropbox sidor för utvecklare](https://www.dropbox.com/developers)
+* [Space monkey](http://www.kickstarter.com/projects/clintgc/space-monkey-taking-the-cloud-out-of-the-datacente)
+* [Paul Graham](http://www.paulgraham.com)
+* [Lisp](https://en.wikipedia.org/wiki/Lisp_programming_language)
+* [Y combinator](http://ycombinator.com)
+* [Viaweb](http://en.wikipedia.org/wiki/Viaweb)
+* Juicing
+* [Tapbots](http://www.tapbots.com)
+* [Clear](http://www.realmacsoftware.com/clear/)
+* [Coda](http://panic.com/coda/)
+* [Panic](http://www.panic.com)
+* [Linux](http://en.wikipedia.org/wiki/Linux)
+* [Tux](http://en.wikipedia.org/wiki/Tux)
