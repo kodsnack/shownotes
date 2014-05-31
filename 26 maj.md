@@ -1,4 +1,4 @@
-## Kodsnack 53 - Pycon och Python ##
+## Kodsnack 53 - Gör en Python 5 ##
 Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska Pycon och tar med oss på en resa från datainsamling och bearbetning via kryptomysterier till Python 2 mot Python 3 och problemen med stora omstarter mellan versioner av mjukvara. Python 3 har stora problem med att vara något nytt och annorlunda som skiljer sig så mycket att den stora massan inte har anledning att byta till det. Samtidigt har utvecklarna  av språket gått vidare så att ingen gör något alls med det språk folk faktiskt använder. Det finns en risk att  man tappar det som gjorde ens skapelse värd att använda när man skriver om den för att bli modernare, mer generell eller vad man nu föresatt sig att göra.
 
 Avsnittet sponsras av [Cenito](http://www.cenito.se).
@@ -50,13 +50,11 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se).
 * [XSLT](http://en.wikipedia.org/wiki/Xslt) - språk för att omvandla XML-dokument till andra XML-dokument
 * [HTTP 2.0](http://en.wikipedia.org/wiki/Http_2.0)
 * [SPDY](http://en.wikipedia.org/wiki/SPDY) - Googles nätverksprotokoll som är basen för HTTP 2.0
-
-* Problem med HTTP 2.0
-* HTTP 3.0
+* [HTTP/2 considerations and tradeoffs](https://insouciant.org/tech/http-slash-2-considerations-and-tradeoffs/) - lång redogörelse med gott om länkar
 
 ## Titlar ##
 * Jag har varit på min semester
-* Ett officiellt och hårt kontrollerar varumärke
+* Ett officiellt och hårt kontrollerat varumärke
 * Plötsligt började ni prata om det
 * En stor upplevelse
 * Boko haram kommer och skjuter sönder deras datacenter
@@ -73,7 +71,7 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se).
 * Någon som sitter och lyssnar på internet (mest hela tiden)
 * Andra encodings än ASCII
 * Det kanske är logiskt för en programmerare
-* Då måste jag se till att mina beroenden är paketerade
+* (Då måste jag se till att) Mina beroenden är paketerade
 * Det enda de har är folk som ändrar på implementationen
 * Gör en Python 5
 * En fork i communityt
