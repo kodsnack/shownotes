@@ -4,8 +4,8 @@ Kristoffer börjar berätta för Fredrik om sina öden och äventyr på svenska 
 Avsnittet sponsras av [Cenito](http://www.cenito.se).
 
 ## Länkar ##
-* [Pycon Sweden](http://2014.pycon.se)
-* [Fredrik Håård](http://blaag.haard.se) - huvudarrangören av Python
+* [Pycon.se](http://2014.pycon.se)
+* [Fredrik Håård](http://blaag.haard.se) - huvudarrangören av Pycon.se
 * [Pycon](http://www.pycon.org) internationellt
 * [Europython](https://ep2014.europython.eu/en/)
 * [Mali](http://en.wikipedia.org/wiki/Mali)
