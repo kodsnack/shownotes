@@ -1,87 +1,87 @@
+Kodsnack 54 - De har gått hela vägen till Haskell
 Vi snackar om programmeringsspråket Swift och lågnivågrafikramverket Metal - två av nyheterna Apple just presenterat på sin utvecklarkonferens [WWDC](https://developer.apple.com/wwdc/).
 
-Avsnittet sponsras av Malmö startup studio.
+Avsnittet sponsras av [Malmö startup studio](http://malmostartupstudio.se/).
 
 ## Länkar ##
-*[Malmö startup studio]
-*[Apples keynote]()
-*[WWDC]()
-*[WWDC-lotteriet]()
-*[Git bisect]()
-*[SQLite]()
-*[fsync]()
-*[Plex pass]()
-*[Kommentar om ljudet]()
-*[Förrförra programmet]()
-*[Hur vi spelar in Kodsnack]()
-*[Våtvara]()
-*[Förra programmet]()
-*[Diffie-Hellman-nyckelutbyte]()
-* Kodsnack på twitter
-* Kodsnack på e-post
-* Kodsnack via Techworld
-* Andra som berättar om vad som är nytt i iOS 8 och Mac OS X Yosemite
-* Swift
-* John Siracusa
-* [Avoiding Copland 2010]()
-* [Objective-C]()
-* [Smalltalk]()
-* [Next]()
-* [Utvecklingen av Objective-C]()
-* [LLVM och Clang]()
-* [Binärkompatibilitet]()
-* [Cocoa]()
-* [Funktionella språk]()
-* Lisp
-* ML
-* Haskell
-* Ruby
-* Python
-* Groovy
-* Rust
-* Go
-* F#
+*[Malmö startup studio](http://malmostartupstudio.se/)
+*[Apples keynote](http://www.apple.com/apple-events/june-2014/)http://www.apple.com/apple-events/june-2014/ - presentationen som inledde konferensen och presenterade vad Apple ansåg vara de viktigaste nyheterna
+*[WWDC](http://developer.apple.com/wwdc/)
+*[WWDC-lotteriet](http://www.macworld.com/article/2139282/apples-2014-wwdc-is-june-2-6-tickets-available-by-lottery.html) - Apple lottade ut biljetterna till årets konferens
+*[Git bisect](http://git-scm.com/docs/git-bisect)
+*[SQLite](http://www.sqlite.org) - liten och självpaketerad SQL-databasmotor
+*[fsync](http://en.wikipedia.org/wiki/Sync_(Unix%29)
+*[Plex pass](https://support.plex.tv/hc/en-us/articles/200288566-What-is-Plex-Pass)
+*[Kommentar om ljudet](http://kodsnack.se/blog/2014/5/26/kodsnack-52-en-full-c-kompilator-som-sista-steget#comment-538f201ae4b01aec8315b0e7)
+*[Förrförra programmet](http://kodsnack.se/blog/2014/5/26/kodsnack-52-en-full-c-kompilator-som-sista-steget) - "Femte elementet i en vektor"
+*[Hur vi spelar in Kodsnack](http://kodsnack.se/blog/2013/7/14/kodsnack-23-hur-vi-snackar-kod)
+*[Våtvara](http://en.wikipedia.org/wiki/Wetware_(brain%29)
+*[Förra programmet](http://kodsnack.se/blog/2014/5/31/kodsnack-53-gr-en-python-5) - "Gör en Python 5"
+*[Diffie-Hellman-nyckelutbyte](http://en.wikipedia.org/wiki/Diffie-Hellman_key_exchange)
+* [Kodsnack på twitter](https://twitter.com/KodSnack)
+* [Kodsnack på e-post](mailto:info@kodsnack.se)
+* [Andra som berättar](http://macworld.idg.se/2.1038/1.564662/alla-nyheterna-i-os-x-yosemite-och-ios-8) om vad som är nytt i iOS 8 och Mac OS X Yosemite
+* [Swift](http://hypercritical.co/about/) - Apples nysläppta programmeringsspråk
+* [John Siracusa](http://hypercritical.co/about/)
+* [Avoiding Copland 2010](http://arstechnica.com/staff/2005/09/1372/) - John Siracusas artikel från 2005 om att Apple måste skaffa sig ett språk med modern minneshantering
+* [Objective-C](http://en.wikipedia.org/wiki/Objective-C)
+* [Smalltalk](http://en.wikipedia.org/wiki/Smalltalk)
+* [Next](http://en.wikipedia.org/wiki/NeXT)
+* [Utvecklingen av Objective-C](http://en.wikipedia.org/wiki/Objective-C#History)
+* [LLVM](http://en.wikipedia.org/wiki/Llvm) och [Clang](http://en.wikipedia.org/wiki/Clang)
+* [Binärkompatibilitet](http://en.wikipedia.org/wiki/Binary_compatible)
+* [Cocoa](http://en.wikipedia.org/wiki/Cocoa_(API%29) - Apples centrala ramverk för OS X och iOS
+* [Funktionella språk](http://en.wikipedia.org/wiki/Functional_programming_language)
+* [Lisp](http://en.wikipedia.org/wiki/Lisp_programming_language)
+* [ML](http://en.wikipedia.org/wiki/ML_(programming_language%29)
+* [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* [Ruby](https://www.ruby-lang.org)
+* [Python](https://www.python.org)
+* [Groovy](http://groovy.codehaus.org) - dynamiskt språk som körs på Javas virtuella maskin
+* [Rust](http://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+* [Go](http://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+* [F#](http://en.wikipedia.org/wiki/F_Sharp_(programming_language%29)
 * Objective-C och Swift och Java och C#
-* Chris Lattner
-* Moduler
-* Headerfiler
-* Moduler i C
-* State of the union-presentationen
-* Xcode 6
+* [Chris Lattner](http://nondot.org/sabre/)
+* [Headerfiler](http://en.wikipedia.org/wiki/Include_directive)
+* [Moduler för C](http://clang.llvm.org/docs/Modules.html) och Objective-C
+* [State of the union-presentationen](http://devstreaming.apple.com/videos/wwdc/2014/102xxw2o82y78a4/102/102_hd_platforms_state_of_the_union.mov?dl=1)
+* [Alla presentationer från WWDC 2014](https://developer.apple.com/videos/wwdc/2014/)
+* [Xcode 6](https://developer.apple.com/xcode/)
 * .?-operatorn
-* Maybe-monaden
+* [Maybe-monaden](http://en.wikipedia.org/wiki/Monad_(functional_programming%29#The_Maybe_monad)
 * If-let-statement
-* Hibernate
-* Namngivna parametrar
-* Syntaxen för dictionaries i Objective-C
-* [ARC]()
-* [Cirkulära referenser]()
-* Sätt att läcka minne i Java
-* Erlang
-* Pattern matching
-* Unicode
-* UTF-8
-* Emoji
-* utf8everywhere.org
-* Bytecode
-* Kompilerat språk
+* [Hibernate](http://en.wikipedia.org/wiki/Hibernate_(Java%29) - javabibliotek för att översätta mellan objektmodeller och relationsdatabaser
+* [Namngivna parametrar](http://en.wikipedia.org/wiki/Named_parameter)
+* [Syntaxen för dictionaries i Objective-C](http://joris.kluivers.nl/blog/2012/03/13/new-objectivec-literal-syntax/) tillsammans med den för andra förändringar som skedde samtidigt
+* [ARC](http://en.wikipedia.org/wiki/Automatic_Reference_Counting) - automatic reference counting - Apples senaste modell för minneshantering. Används för både Objective-C och Swift
+* [Cirkulära referenser](http://en.wikipedia.org/wiki/Circular_reference)
+* [Sätt att läcka minne i Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
+* [Erlang](http://en.wikipedia.org/wiki/Erlang_(programming_language%29)
+* [Pattern matching](http://en.wikipedia.org/wiki/Pattern_matching)
+* [Unicode](http://en.wikipedia.org/wiki/Unicode)
+* [UTF-8](http://en.wikipedia.org/wiki/Utf-8)
+* [Emoji](http://en.wikipedia.org/wiki/Emoji)
+* [utf8everywhere.org](http://www.utf8everywhere.org) - propagerar och hjälper dig propagera för att UTF-8 ska användas … ja, överallt
+* [Bytekod](http://en.wikipedia.org/wiki/Byte_code) - kod anpassad för effektiv körning av en tolk eller virtuell maskin
+* [Kompilerade språk](http://en.wikipedia.org/wiki/Compiled_language) - språk som omvandlas till någon typ av maskinkod innan de körs
 * [clattner_llvm](https://twitter.com/clattner_llvm) - Chris Lattner på Twitter
-* Malmö startup studio
-* AngularJS
-* malmostartupstudio.se/events
-* Playgounds
-* Read-evaluate-print-loop
-* Lisp machine
-* Brett Victor och hans presentationer
-* Ligth table - editor för Clojure
-* Förbättringar för att direkt se saker i Interface builder
-* Metal
-* Tim Sweeny
-* Ray tracing
-* Johan Andersson på EA
-* Frostbite
-* John Carmack
-* Direct X
+* [Malmö startup studio](http://malmostartupstudio.se/)
+* [AngularJS](https://angularjs.org) - populärt javascriptramverk
+* [malmostartupstudio.se/events](http://www.malmostartupstudio.se/events/)
+* Playgounds - Apples nya interaktiva miljö för att experimentera med kod skriven i Swift
+* [Read-eval-print-loop](http://en.wikipedia.org/wiki/Read-eval-print_loop) - kommandoradsmiljö (oftast) i vilken man kan skriva in och köra programkod och direkt se resultatet
+* [Lispmaskiner](http://en.wikipedia.org/wiki/Lisp_machine) - datorer byggda specifikt för att ha [Lisp](http://en.wikipedia.org/wiki/Lisp_programming_language) som sitt huvudspråk
+* [Brett Victor](http://worrydream.com) och hans [presentationer](http://worrydream.com/#!/InventingOnPrinciple)
+* [Ligth table](http://www.lighttable.com) - utvecklingsmiljö för [Clojure](http://clojure.org), [Python](https://www.python.org) och webbutveckling
+* [Nyheter i Xcode 6](https://developer.apple.com/xcode/)
+* [Metal](https://developer.apple.com/library/prerelease/ios/documentation/Miscellaneous/Conceptual/MTLProgGuide/Introduction/Introduction.html) - Apples nya ramverk för 3d-programmering på iOS
+* [Tim Sweeny](http://en.wikipedia.org/wiki/Tim_Sweeney_(game_developer%29) - grundare av [Epic games](http://en.wikipedia.org/wiki/Epic_Games) och utvecklare av [unrealmotorn](http://en.wikipedia.org/wiki/Unreal_Engine)
+* [Ray tracing](http://en.wikipedia.org/wiki/Ray_tracing_(graphics%29) - teknik för att skapa 3d-grafik
+* [Johan Andersson](https://twitter.com/repi)
+* [Frostbite](http://en.wikipedia.org/wiki/Frostbite_(game_engine%29) - spelmotor först utvecklad för spelen i [Battlefield-serien](http://en.wikipedia.org/wiki/Battlefield_(series%29)
+* [John Carmack](http://en.wikipedia.org/wiki/John_carmack) - 3d-spelprogrammeringsguru
+* [DirectX](http://en.wikipedia.org/wiki/Direct_X) - API-familj från Microsoft för effektiv hantering av spel och annan media
 
 ## Titlar ##
 * Skriver buggar
