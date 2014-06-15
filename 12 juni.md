@@ -43,7 +43,7 @@ Michael Lopp - Stables and volatiles https://www.youtube.com/watch?v=ztmUUkuVWjk
 * Killen på Pycon.se som visade generators och annat
 * Ruby on rails
 * Perl
-* [Jim Veyrich - tal om the Y combinator](http://www.infoq.com/presentations/Y-Combinator)
+* [Jim Weirich - tal om the Y combinator](http://www.infoq.com/presentations/Y-Combinator)
 * Y combinator
 * Lambdafunktioner
 * Turingkomplett
