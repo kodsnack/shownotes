@@ -23,12 +23,12 @@ Michael Lopp - Stables and volatiles https://www.youtube.com/watch?v=ztmUUkuVWjk
 * Cocoaheads
 * Football addicts
 * Cenito
-* Kristoffers kombinatoriska parser skriven i Python
+* [Parsnip](https://github.com/krig/parsnip) - Kristoffers kombinatoriska parser skriven i Python
 * GCC och att generera kod för Playstation 2
-* Emscriptm - kompilerar C++ till Javascript
-* Scheme
-* ML
-* OCAML
+* [Emscripten](https://github.com/kripken/emscripten/wiki) - kompilerar C++ till Javascript
+* [Scheme](http://schemers.org/)
+* [ML](http://www.smlnj.org/sml.html)
+* [OCaml](http://ocaml.org/)
 * Hashmap i C++
 * Kernel
 * Moores lag
