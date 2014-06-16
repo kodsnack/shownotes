@@ -1,6 +1,8 @@
 Kodsnack 55 - De stora spektaklen
 
-Vi snackar konferenser och presentationer. Vad gör egentligen en konferens värd att åka på, hur mycket kod vill vi se i presentationsbilderna och ska folk verkligen få ställa frågor? Sedan övergår vi till att diskutera vad som får programmeringsspråk att slå igenom och om dagens språkexplosion är bra eller dålig samt poängen med att ens hålla reda på hur populära språk är. Är det bra eller dåligt att behöva lära sig fler språk istället för att kunna fokusera på ett eller ett fåtal?
+Vi snackar konferenser, presentationer och lightning talks. Vad gör egentligen en konferens värd att åka på, hur mycket kod vill vi se i presentationsbilderna och ska folk verkligen få ställa frågor?
+
+Sedan övergår vi till att diskutera vad som får programmeringsspråk att slå igenom och om dagens språkexplosion är bra eller dålig samt poängen med att ens hålla reda på hur populära språk är. Är det bra eller dåligt att behöva lära sig fler språk istället för att kunna fokusera på ett eller ett fåtal?
 
 Avsnittet sponsras av [Cenito](http://www.cenito.se/jobs).
 
@@ -41,11 +43,9 @@ Avsnittet sponsras av [Cenito](http://www.cenito.se/jobs).
 * [Visual basic](http://en.wikipedia.org/wiki/Visual_basic)
 * [Actionscript](http://en.wikipedia.org/wiki/ActionScript) - dialekt av Javascrip som främst används i [Flash](http://en.wikipedia.org/wiki/Adobe_Flash_Player) och [AIR](http://en.wikipedia.org/wiki/Adobe_Integrated_Runtime)
 * [Go](http://en.wikipedia.org/wiki/Adobe_Flash_Player)
-
-* Fullvärdiga closures
-* Minnespekare i C
-* Killen på Pycon.se som visade generators och annat
-
+* [Closure](http://en.wikipedia.org/wiki/Closure_(computer_programming%29) - enkelt uttryckt en funktion tillsammans med omgivande miljö - en closure kan när den anropas nå värden som ligger utanför själva funktionen men som var nåbara när funktionen skapades
+* [Pekare i C](http://boredzo.org/pointers/)
+* [James Powell](https://twitter.com/dontusethiscode) som på Pycon.se höll presentationen [Generators will free your mind](http://www.pyohio.org/schedule/presentation/57/)
 * [Ruby on rails](http://rubyonrails.org) - stilbildande ramverk för webbapplikationer
 * [Perl](http://en.wikipedia.org/wiki/Perl)
 * [Jim Weirich - tal om the Y combinator](http://www.infoq.com/presentations/Y-Combinator)
