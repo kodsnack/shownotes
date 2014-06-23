@@ -5,7 +5,7 @@ Avsnittet sponsras av [Malmö startup studio](http://www.malmostartupstudio.se).
 
 ## Länkar ##
 * [Steve Yegge](http://en.wikipedia.org/wiki/Steve_Yegge)
-* [Den statistk typade säkerhetsvakten på flygplatsen](http://steve-yegge.blogspot.se/2006/12/parabola.html)
+* [Den statiskt typade säkerhetsvakten på flygplatsen](http://steve-yegge.blogspot.se/2006/12/parabola.html)
 * [Execution in the kingdom of nouns](http://steve-yegge.blogspot.se/2006/03/execution-in-kingdom-of-nouns.html)
 * [Steve Yegges blogg](http://steve-yegge.blogspot.com)
 * [Äldre texter Steve Yegge skrev på Amazon](https://sites.google.com/site/steveyegge2/blog-rants)
